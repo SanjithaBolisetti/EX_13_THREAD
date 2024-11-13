@@ -21,12 +21,12 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-/*
+
 ```
 Developed by: Bolisetti Sanjitha
-Registeration Number : 212222040027
+Register Number : 212222040027
 ```
-*/
+
 
 ## MainActivity.java
 ```
@@ -136,7 +136,11 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/8959ab62-39b5-4d81-b029-200b2f5ab089)
+
+![image](https://github.com/user-attachments/assets/eef9e45b-245e-454d-a31e-442b8ef3e880)
+
+
+
 
 ## RESULT
 The application is successfully displayed for thread synchronization concept with the help of clicking the button in Android Studio.
